@@ -1,0 +1,23 @@
+.p{
+    color: #222222 ;
+}
+
+.container {
+    margin-top: 100px;
+}
+.required:after{
+    content: "*";
+    color: #C90000;
+}
+
+.btn:hover {
+    transition:0.3s ;
+}
+
+.navbar-custom {
+    color: #F6F6F7;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    color: #222222 !important;
+}
